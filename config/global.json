@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "ipbidhub": {
+            "applicationId": "ABCDEF0987654321",
+            "masterKey": "MYKEY2342312"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "bidhub"
         }
     }, 
     "global": {
